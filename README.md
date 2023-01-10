@@ -3,6 +3,8 @@
 <p align="center">Projeto de filmes feito com o REACT.Js, consumindo a API de filmes do TMDB (The Movie Database)</p>
 
 <img alt="BerreuFlix" src="./src/img/berreuflix.png" align="center" />
+
+<p>Link de acesso =><a href="https://berreuflix.netlify.app/" target="_blank"></p>
  
  Link de acesso => https://berreuflix.netlify.app/
  
