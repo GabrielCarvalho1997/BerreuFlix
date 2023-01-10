@@ -8,7 +8,7 @@
 
 ##
 
-<p>Link de acesso => https://berreuflix.netlify.app/</p>
+<p>Link de acesso => <a href="https://berreuflix.netlify.app/" target="_blank">https://berreuflix.netlify.app/</a></p>
  
   - React, React Hooks, React Router Dom, React Icons;
   - Consumo da TMDB API;
